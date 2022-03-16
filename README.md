@@ -82,7 +82,7 @@
 
 <p align = "center">
  <a href="https://twitter.com/s08prashant">
-  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Prashant's Twitter" width="22px" src=https://camo.githubusercontent.com/c02784b921148cba636bc9e44e179f60112cda7952d7eb67fbe44fa1d97a40da/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73696e676830387072617368616e7426726f773d31266e6f2d6672616d653d74727565" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-singh-08/">
   <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
