@@ -15,9 +15,9 @@
 ---
 
 
-<center>   <h2> 𝗠𝘆 Skills </h2> </center>
+<center align ="center">   <h2> 𝗠𝘆 Skills </h2> </center>
 
-<table>
+<table align ="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
