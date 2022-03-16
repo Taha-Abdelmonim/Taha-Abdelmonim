@@ -69,8 +69,8 @@
         <img height="64px" src="https://2.bp.blogspot.com/-y6gb1DfArMA/V6pfuapx6AI/AAAAAAAABfc/MX60Q7VqbQME7f9Vlm_8dyrGFM2GRtzvQCLcB/s1600/free-php-mysql-training-course-online-tutorial.jpg">
       </td> 
       <td width="25%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://camo.githubusercontent.com/14ece976ba20d761d742ef185f26689fc12247606f81d971d41820f3b05a5111/68747470733a2f2f692e6d6f72696f682e636f6d2f323032302f30332f30352f6166636161633436386239372e6a7067">
       </td> 
     </tr>
   </tbody>
