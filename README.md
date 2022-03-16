@@ -34,7 +34,7 @@
       </td>
       <td width="25%" align="center">
         <span> <b>Google Cloud Platform</b></span><br><br><br>
-        <img height="128px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
+        <img height="50px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
       </td>
     </tr>
     <tr valign="top">
