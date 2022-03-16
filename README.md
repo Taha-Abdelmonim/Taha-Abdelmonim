@@ -57,8 +57,8 @@
     </tr>
     <tr>
       <td width="25%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://freepikpsd.com/file/2019/10/bootstrap-icon-png-2.png">
+        <span>Bootstrap 5</span><br><br><br>
+        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
