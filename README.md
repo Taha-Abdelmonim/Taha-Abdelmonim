@@ -69,7 +69,7 @@
         <img height="64px" src="https://2.bp.blogspot.com/-y6gb1DfArMA/V6pfuapx6AI/AAAAAAAABfc/MX60Q7VqbQME7f9Vlm_8dyrGFM2GRtzvQCLcB/s1600/free-php-mysql-training-course-online-tutorial.jpg">
       </td> 
       <td width="25%" align="center">
-        <span>Laravel</span><br><br><br>
+        <span>Laravel 7</span><br><br><br>
         <img height="64px" src="https://camo.githubusercontent.com/14ece976ba20d761d742ef185f26689fc12247606f81d971d41820f3b05a5111/68747470733a2f2f692e6d6f72696f682e636f6d2f323032302f30332f30352f6166636161633436386239372e6a7067">
       </td> 
     </tr>
@@ -79,9 +79,6 @@
 
 <hr>
 
-### 📝 Latest articles from [dev.to](https://dev.to/singh08prashant)
-
-* Jul 11 2020 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine](https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb) 
 
 <p align = "center">
  <a href="https://twitter.com/s08prashant">
