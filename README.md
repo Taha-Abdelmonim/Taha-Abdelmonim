@@ -44,7 +44,7 @@
       </td>
       <td width="25%" align="center">
         <span><b>Sass</b></span><br><br><br>
-        <img height="64px" src="https://thumbnail.imgbin.com/4/16/4/imgbin-sass-cascading-style-sheets-preprocessor-less-postcss-meng-uwgxZ0nWdzVLrKB6BCTaPGfLc_t.jpg">
+        <img height="64px" src="https://e7.pngegg.com/pngimages/425/902/png-clipart-sass-style-sheet-language-cascading-style-sheets-logo-sass-purple-violet.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
