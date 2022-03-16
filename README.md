@@ -15,7 +15,7 @@
 ---
 
 
-<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
+<center>   <h2> 𝗠𝘆 Skills </h2> </center>
 
 <table>
   <tbody>
