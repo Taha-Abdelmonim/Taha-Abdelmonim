@@ -97,7 +97,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201090770686=Taha_Abdelmoneim!)](https://api.whatsapp.com/send?phone=201090770686&text=Taha_Abdelmoneim)
 
 ⭐ From [Taha_Abdelmoneim](https://github.com/Taha-Abdelmonim)
-**Taha-Abdelmonim/Taha-Abdelmonim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **Taha-Abdelmonim/Taha-Abdelmonim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
