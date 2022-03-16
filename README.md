@@ -43,8 +43,8 @@
         <img height="64px" src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png">
       </td>
       <td width="25%" align="center">
-        <span><b>Python 3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><b>Sass</b></span><br><br><br>
+        <img height="64px" src="https://thumbnail.imgbin.com/4/16/4/imgbin-sass-cascading-style-sheets-preprocessor-less-postcss-meng-uwgxZ0nWdzVLrKB6BCTaPGfLc_t.jpg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
