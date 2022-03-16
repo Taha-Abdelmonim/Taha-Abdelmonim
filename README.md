@@ -15,7 +15,7 @@
 ---
 
 
-<center align ="center">   <h2> 𝗠𝘆 Skills </h2> </center>
+<center>   <h2 align ="center"> 𝗠𝘆 Skills </h2> </center>
 
 <table align ="center">
   <tbody>
