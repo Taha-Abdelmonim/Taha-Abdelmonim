@@ -65,8 +65,12 @@
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>PHP & MySql</span><br><br><br>
+        <img height="64px" src="https://2.bp.blogspot.com/-y6gb1DfArMA/V6pfuapx6AI/AAAAAAAABfc/MX60Q7VqbQME7f9Vlm_8dyrGFM2GRtzvQCLcB/s1600/free-php-mysql-training-course-online-tutorial.jpg">
+      </td> 
+      <td width="25%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
       </td> 
     </tr>
   </tbody>
