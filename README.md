@@ -22,19 +22,19 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="65px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="65px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="65px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span> <b>Google Cloud Platform</b></span><br><br><br>
-        <img height="60px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
+        <img height="65px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
       </td>
     </tr>
     <tr valign="top">
