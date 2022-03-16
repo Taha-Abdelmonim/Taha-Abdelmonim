@@ -47,7 +47,7 @@
         <img height="64px" src="https://www.pngkit.com/png/detail/377-3771972_sass.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁 & Github</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
