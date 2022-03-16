@@ -58,7 +58,7 @@
     <tr>
       <td width="25%" align="center">
         <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://e7.pngegg.com/pngimages/168/618/png-clipart-responsive-web-design-web-development-bootstrap-cascading-style-sheets-web-browser-world-wide-web-purple-web-design.png">
+        <img height="64px" src="https://freepikpsd.com/file/2019/10/bootstrap-icon-png-2.png">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
