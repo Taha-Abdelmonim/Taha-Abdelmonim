@@ -36,8 +36,8 @@ show:
         <img height="65px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span> <b>Google Cloud Platform</b></span><br><br><br>
-        <img height="65px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
+        <span> <b>Webpack</b></span><br><br><br>
+        <img height="65px" src="[https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUylLjlrN67NimeWwze0YgIcu46LgmS9UOtYQ1uO4HZT5ZYlF0201abOVLQ7ZRIPIuVU&usqp=CAU)">
       </td>
     </tr>
     <tr valign="top">
