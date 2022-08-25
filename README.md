@@ -72,8 +72,8 @@ show:
         <img height="64px" src="https://s3.amazonaws.com/coursetro/posts/144-full.png">
       </td> 
       <td width="25%" align="center">
-        <span>Laravel 7</span><br><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/14ece976ba20d761d742ef185f26689fc12247606f81d971d41820f3b05a5111/68747470733a2f2f692e6d6f72696f682e636f6d2f323032302f30332f30352f6166636161633436386239372e6a7067">
+        <span>Nuxtjs</span><br><br><br>
+        <img height="64px" src="https://www.willstyle.co.jp/w/wp-content/uploads/2020/11/nuxt.jpg">
       </td> 
     </tr>
   </tbody>
