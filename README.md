@@ -68,8 +68,8 @@ show:
         <img height="64px" src="https://techtechmedia.com/wp-content/uploads/2021/03/Vuejs.png">
       </td>
       <td width="25%" align="center">
-        <span>PHP & MySql</span><br><br><br>
-        <img height="64px" src="https://2.bp.blogspot.com/-y6gb1DfArMA/V6pfuapx6AI/AAAAAAAABfc/MX60Q7VqbQME7f9Vlm_8dyrGFM2GRtzvQCLcB/s1600/free-php-mysql-training-course-online-tutorial.jpg">
+        <span>Vuex</span><br><br><br>
+        <img height="64px" src="https://s3.amazonaws.com/coursetro/posts/144-full.png">
       </td> 
       <td width="25%" align="center">
         <span>Laravel 7</span><br><br><br>
