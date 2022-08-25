@@ -6,8 +6,8 @@
 </div>
 
 show:
-<div>
-- <img  align= "center"  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<div align= "center">
+ <img  align= "center"  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 </div>
 
 
