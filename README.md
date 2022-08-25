@@ -37,7 +37,7 @@ show:
       </td>
       <td width="25%" align="center">
         <span> <b>Webpack</b></span><br><br><br>
-        <img height="65px" src="https://beadgrup.com/news/wp-content/uploads/2021/03/webpack-800x474.jpg">
+        <img height="65px" src="https://banner2.cleanpng.com/20190417/yb/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb79870aa3cb3.6069044115555359846973.jpg">
       </td>
     </tr>
     <tr valign="top">
