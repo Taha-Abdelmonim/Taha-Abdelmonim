@@ -42,8 +42,8 @@ show:
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-         <span><b>Pugjs</b></span><br><br><br>
-        <img height="64px" src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png">
+         <span><b>Wordpress</b></span><br><br><br>
+        <img height="64px" src="https://e3arabi.com/wp-content/uploads/2020/12/WordPress-logotype-alternative.png">
       </td>
       <td width="25%" align="center">
         <span><b>Sass</b></span><br><br><br>
