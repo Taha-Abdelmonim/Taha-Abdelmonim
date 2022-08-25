@@ -6,9 +6,9 @@
 </div>
 
 show:
-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-/>
-
+<div>
+- <img  align= "center"  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+</div>
 
 
 <br />
