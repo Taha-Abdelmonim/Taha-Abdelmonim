@@ -64,8 +64,8 @@ show:
         <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
       </td>
       <td width="25%" align="center">
-        <span>Reactjs</span><br><br><br>
-        <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
+        <span>Vuejs</span><br><br><br>
+        <img height="64px" src="https://techtechmedia.com/wp-content/uploads/2021/03/Vuejs.png">
       </td>
       <td width="25%" align="center">
         <span>PHP & MySql</span><br><br><br>
