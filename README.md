@@ -43,7 +43,7 @@ show:
     <tr valign="top">
       <td width="25%" align="center">
          <span><b>Wordpress</b></span><br><br><br>
-        <img height="64px" src="https://www.خالد.com/wp-content/uploads/2021/08/57714-1432498178-wordpress-logo-680x400-1.png">
+        <img height="64px" src="https://www.xn--mgbne7f.com/wp-content/uploads/2021/08/57714-1432498178-wordpress-logo-680x400-1.png">
       </td>
       <td width="25%" align="center">
         <span><b>Sass</b></span><br><br><br>
