@@ -37,7 +37,7 @@ show:
       </td>
       <td width="25%" align="center">
         <span> <b>Webpack</b></span><br><br><br>
-        <img height="65px" src="https://banner2.cleanpng.com/20190417/yb/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb79870aa3cb3.6069044115555359846973.jpg">
+        <img height="65px" src="https://blog.neolynk.fr/wp-content/uploads/2019/11/Format-blog.png">
       </td>
     </tr>
     <tr valign="top">
